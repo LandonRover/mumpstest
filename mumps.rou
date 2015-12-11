@@ -3,6 +3,5 @@
 	;
 routine(n)
 	n r
-	s r=1
-	n=r*n
-	q n
+	s r=n
+	q r
