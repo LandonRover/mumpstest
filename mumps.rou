@@ -1,0 +1,8 @@
+
+ 	; Testing M / Caché
+	;
+routine(n)
+	n r
+	s r=1
+	n=r*n
+	q n
